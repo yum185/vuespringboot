@@ -51,6 +51,7 @@
                 v-model="form.birthdate"
                 type="date"
                 placeholder="Birthday"
+                value-format="YYYY-MM-DD"
             ></el-date-picker>
           </el-form-item>
           <el-form-item label="Cellphone">
