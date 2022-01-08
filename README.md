@@ -1,8 +1,11 @@
 The following frameworks are used in the project:
+
+```
 vue.js
 springboot
 hibernate
 mysql
+```
 
 java version:8
 
