@@ -11,8 +11,10 @@ java version:8
 ```
 
 In order to connect mysql server please update the 
+```
 spring.datasource.username
 spring.datasource.password
+```
 in application.properties in backend-springboot
 
 Please use the following command to set up the database: 
