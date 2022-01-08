@@ -24,7 +24,7 @@ CREATE TABLE `customer` (
                             `id` bigint NOT NULL COMMENT 'Primary key ID',
                             `name` varchar(255) NOT NULL COMMENT 'Customer  name',
                             `age` int NOT NULL  COMMENT 'Age',
-							`birthdate` date NOT NULL,
+			    `birthdate` date NOT NULL,
                             `cell` varchar(255) DEFAULT NULL COMMENT 'Cell number',
                             `address` varchar(255) DEFAULT NULL COMMENT 'Address',
                             `school` varchar(255) DEFAULT NULL COMMENT 'Graduation school',
