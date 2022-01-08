@@ -6,8 +6,9 @@ springboot
 hibernate
 mysql
 ```
-
+```
 java version:8
+```
 
 In order to connect mysql server please update the 
 spring.datasource.username
@@ -33,8 +34,11 @@ CREATE TABLE `customer` (
 ```
 
 In order to run the frontend-vue, please use the following commands:
+```
 npm install
 npm run serve
-
-The backend uses port 8089
-The frontend uses port 9876
+```
+```
+The backend uses port 8089.
+The frontend uses port 9876.
+```
