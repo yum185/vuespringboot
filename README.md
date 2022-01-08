@@ -28,3 +28,10 @@ CREATE TABLE `customer` (
                             PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Customer info table';
 ```
+
+In order to run the frontend-vue, please use the following commands:
+npm install
+npm run serve
+
+The backend uses port 8089
+The frontend uses port 9876
